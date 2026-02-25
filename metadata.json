@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Titen",
+  "description": "Autonomous All-in-One AI Production Studio: Video, Agents, Apps, SaaS, and Games.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
